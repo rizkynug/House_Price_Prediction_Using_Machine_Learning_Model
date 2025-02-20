@@ -1,4 +1,4 @@
-# House_Price_Prediction_Using_Machine_Learning_Models
+# House_Price_Prediction_Using_Machine_Learning_Model
 
 ## 📌 Project Description
 This project aims to model house prices based on various features in the dataset using machine learning techniques. The dataset contains data about house characteristics such as lot size, year built, amenities, and sale price.
